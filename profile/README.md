@@ -2,7 +2,7 @@
 
 # Hello 👋
 
-Welcome to the GitHub space of __Supraxel Games__!
+Welcome to the GitHub space of __Supraxel Studio__!
 
 Our team is focused on crafting __Project Lima__ (working title) as well as contributing to the open source community.
 
